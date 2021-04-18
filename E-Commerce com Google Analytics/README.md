@@ -8,7 +8,7 @@
 
 Clique na imagem para uma melhor visualização.
 
-<img src="https://github.com/Wenceslau93/Data-Science-e-BI/blob/master/Power%20BI%202.0/E-Commerce%20com%20Google%20Analytics/E-Commerce%20com%20Google%20Analytics.PNG?raw=true" alt="sometext"></br></br>
+<img src="https://github.com/Wenceslau93/Power_BI/blob/main/E-Commerce%20com%20Google%20Analytics/E-Commerce%20com%20Google%20Analytics.PNG?raw=true" alt="sometext"></br></br>
 
 </center>
 
