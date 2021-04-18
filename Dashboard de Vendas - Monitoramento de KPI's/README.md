@@ -8,7 +8,7 @@
 
 Clique na imagem para uma melhor visualização.
 
-<img src="https://github.com/Wenceslau93/Data-Science-e-BI/blob/master/Power%20BI%202.0/Dashboard%20de%20Vendas%20-%20Monitoramento%20de%20KPI's/Dashboard%20de%20Vendas%20-%20Monitoramento%20de%20KPI's.PNG?raw=true" alt="sometext"></br></br>
+<img src="https://github.com/Wenceslau93/Power_BI/blob/main/Dashboard%20de%20Vendas%20-%20Monitoramento%20de%20KPI's/Dashboard%20de%20Vendas%20-%20Monitoramento%20de%20KPI's.PNG?raw=true" alt="sometext"></br></br>
 
 </center>
 
