@@ -14,7 +14,7 @@ Neste arquivo, é explicado toda definição do Problema de Negócio.
 
 Clique na imagem para uma melhor visualização.
 
-<img src="https://github.com/Wenceslau93/Data-Science-e-BI/blob/master/Power%20BI%202.0/Venda%20de%20Carros/Print.PNG?raw=true" alt="sometext"></br></br>
+<img src="https://github.com/Wenceslau93/Power_BI/blob/main/Venda%20de%20Carros/Print.PNG?raw=true" alt="sometext"></br></br>
 
 </center>
 
