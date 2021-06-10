@@ -1,6 +1,6 @@
-<h2>Este é um dos projetos realizado em Power BI</h2>
+<h2>Projetos realizado em Power BI</h2>
 
 
-Todos os direitos são da Data Science Academy.
+Curso gratuido de Power BI:
 
 Link: https://www.datascienceacademy.com.br/
